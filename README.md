@@ -1,7 +1,9 @@
 <h1> Hola , Soy Eros <br/><a href="https://github.com/erosbaccii"></a>, <a href="https://www.linkedin.com/in/eros-santino-baccigalupi-y-dantona-851671250/">System engineering student</a>
 
 <br><br>
-<img width="1059" height="367" alt="imagen" src="https://github.com/user-attachments/assets/34904da2-fdc4-4476-9cfe-3655e1a8232e" />
+<img width="1058" height="309" alt="imagen" src="https://github.com/user-attachments/assets/a0ef10fa-e14a-43e8-ab47-42fd398785a5" />
+
+
 
 <br>
 
