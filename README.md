@@ -30,6 +30,7 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Auditor PCI-DSS Seguridad]((https://github.com/erosbaccii/Auditor-PCI-DSS-Python-Seguridad))
 
 <h2> 👨‍💻Certificaciones </h2>
 -
