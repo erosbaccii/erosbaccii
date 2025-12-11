@@ -16,7 +16,6 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Auditor y analizador PCI-DSS seguridad](https://github.com/erosbaccii/Auditor-PCI-DSS-Python-Seguridad)
 
 <h2> 👨‍💻Certificaciones </h2>
