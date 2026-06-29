@@ -22,7 +22,7 @@
   - [Evaluacion de riesgos GRC para una fintech ficticia](https://github.com/erosbaccii/NovaPay-GRC-Risk-assessment)
 
 <h2> 👨‍💻Certificaciones </h2>
--
+- Analista GRC: Gobernanza de IT, Riesgo y Cumplimiento <b>Udemy</b>
 
 
 <h2> 🤳 Connect with me:</h2>
