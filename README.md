@@ -17,6 +17,7 @@
 
 - <b>Python</b>
   - [Auditor y analizador PCI-DSS seguridad](https://github.com/erosbaccii/Auditor-PCI-DSS-Python-Seguridad)
+  - [Evaluacion de riesgos GRC para una fintech ficticia] (https://github.com/erosbaccii/NovaPay-GRC-Risk-assessment)
 
 <h2> 👨‍💻Certificaciones </h2>
 -
