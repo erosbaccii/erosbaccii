@@ -1,4 +1,4 @@
-<h1> Hola , Soy Eros <br/><a href="https://github.com/erosbaccii"></a>, <a href="https://www.linkedin.com/in/eros-santino-baccigalupi-y-d-antona-851671250/">System engineering student</a>
+<h1> Hola, Soy Eros<br/><a href="https://github.com/erosbaccii"></a>,System engineering student</a>
 
 <br><br>
 
