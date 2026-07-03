@@ -20,13 +20,13 @@
 
 <h2>🛠️ Technologies<h2>
 
-Cloud and infrastructure: Cloud, Docker, Linux<br><br>
-Governance, Risk and Compliance (GRC): GRC, Information Security<br><br>
-Programming and automation: Python, C#, .NET, Java, Bash, PowerShell, Programacion Orientada a Objetos (POO)<br> <br>
-Databases: SQL<br><br>
-Networking and troubleshooting: Wireshark, Hiren's BootCD<br> <br>
-Development tools: Git<br><br>
-Productivity: Microsoft Office<br><br>
+<b>Cloud and infrastructure</b>: Cloud, Docker, Linux<br><br>
+<b>Governance, Risk and Compliance (GRC)</b>: GRC, Information Security<br><br>
+<b>Programming and automation</b>: Python, C#, .NET, Java, Bash, PowerShell, Programacion Orientada a Objetos (POO)<br> <br>
+<b>Databases</b>: SQL<br><br>
+<b>Networking and troubleshooting</b>: Wireshark, Hiren's BootCD<br> <br>
+<b>Development tools</b>: Git<br><br>
+<b>Productivity</b>: Microsoft Office<br><br>
 
 <h2> 👨‍💻Certificaciones </h2>
 - Analista GRC: Gobernanza de IT, Riesgo y Cumplimiento -- <b>Udemy</b>
