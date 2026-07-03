@@ -1,10 +1,15 @@
-<h1> Hola, Soy Eros<br/><a href="https://github.com/erosbaccii"></a>,System engineering student</a>
+# Eros Santino Baccigalupi Y D'Antona
 
+**Estudiante de Ingenieria en Sistemas|| Universidad Abierta Interamericana**
+**GRC | Blue Team | Python | Java | Spring Security | C#**
+
+📍 Longchamps, Buenos Aires, Argentina
+👤 [LinkedIn](https://www.linkedin.com/in/eros-santino-baccigalupi-y-d-antona-851671250/)
+✉️ ebaccigalupi8@gmail.com
 <br><br>
 
 
-
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻Cybersecurity Projects:</h2>
 
 - <b>Python</b>
   - [Auditor y analizador PCI-DSS seguridad](https://github.com/erosbaccii/Auditor-PCI-DSS-Python-Seguridad)
@@ -16,9 +21,6 @@
 - Analista GRC: Gobernanza de IT, Riesgo y Cumplimiento -- <b>Udemy</b>
 
 
-<h2> 🤳 Connect with me:</h2>
-[instagram]: https://www.instagram.com/erosbaccii/
-[linkedin]: https://www.linkedin.com/in/eros-santino-baccigalupi-y-d-antona-851671250/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
