@@ -18,16 +18,6 @@
   - [Evaluacion de riesgos GRC para una fintech ficticia](https://github.com/erosbaccii/NovaPay-GRC-Risk-assessment)
 <br><br>
 
-<h2>🛠️ Technologies<h2>
-
-<b>Cloud and infrastructure</b>: Cloud, Docker, Linux<br><br>
-<b>Governance, Risk and Compliance (GRC)</b>: GRC, Information Security<br><br>
-<b>Programming and automation</b>: Python, C#, .NET, Java, Bash, PowerShell, Programacion Orientada a Objetos (POO)<br> <br>
-<b>Databases</b>: SQL<br><br>
-<b>Networking and troubleshooting</b>: Wireshark, Hiren's BootCD<br> <br>
-<b>Development tools</b>: Git<br><br>
-<b>Productivity</b>: Microsoft Office<br><br>
-
 <h2> 👨‍💻Certificaciones </h2>
 - Analista GRC: Gobernanza de IT, Riesgo y Cumplimiento -- <b>Udemy</b>
 
