@@ -3,10 +3,8 @@
 **Estudiante de Ingenieria en Sistemas|| Universidad Abierta Interamericana**
 **GRC | Blue Team | Python | Java | Spring Security | C#**
 
-📍 Longchamps, Buenos Aires, Argentina
-
-👤 [LinkedIn](https://www.linkedin.com/in/eros-santino-baccigalupi-y-d-antona-851671250/)
-
+📍 Longchamps, Buenos Aires, Argentina<br>
+👤 [LinkedIn](https://www.linkedin.com/in/eros-santino-baccigalupi-y-d-antona-851671250/)<br>
 ✉️ ebaccigalupi8@gmail.com
 <br><br>
 
