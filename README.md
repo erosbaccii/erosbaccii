@@ -4,7 +4,9 @@
 **GRC | Blue Team | Python | Java | Spring Security | C#**
 
 📍 Longchamps, Buenos Aires, Argentina
+
 👤 [LinkedIn](https://www.linkedin.com/in/eros-santino-baccigalupi-y-d-antona-851671250/)
+
 ✉️ ebaccigalupi8@gmail.com
 <br><br>
 
