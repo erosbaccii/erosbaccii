@@ -1,6 +1,6 @@
 # Eros Santino Baccigalupi Y D'Antona
 
-**Estudiante de Ingenieria en Sistemas|| Universidad Abierta Interamericana**
+**Estudiante de Ingenieria en Sistemas || Universidad Abierta Interamericana**
 **GRC | Blue Team | Python | Java | Spring Security | C#**
 
 📍 Longchamps, Buenos Aires, Argentina<br>
